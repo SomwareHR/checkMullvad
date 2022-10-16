@@ -6,6 +6,14 @@ Script is short and self-explanatory. It uses [Mullvad's API](https://mullvad.ne
 
 
 
+# Prerequisites
+
++ Linux
++ Wireguard
++ Mullvad account
+
+
+
 # CRONTAB
 
 You can set Crontab to check every 5 minutes
